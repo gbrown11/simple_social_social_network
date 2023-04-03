@@ -1,2 +1,2 @@
-# simple_social_social_network
+# simple_social_network
 A demonstration of a simple social network.
